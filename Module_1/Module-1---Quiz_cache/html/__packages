@@ -1,0 +1,13 @@
+generics
+BiocGenerics
+Biobase
+plotrix
+dendextend
+S4Vectors
+IRanges
+Seqinfo
+GenomicRanges
+matrixStats
+MatrixGenerics
+SummarizedExperiment
+DESeq2
